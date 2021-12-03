@@ -2,7 +2,7 @@
 
 The backEnd of the **Hellow Rails APP**. This is a web API with a database that stores greetings. Doing an API request returns a random element from the table.
 
-**FrontEnd:** You can have access to the frontend of the Hello Rails App [here](URL)
+**FrontEnd:** You can have access to the frontend of the Hello Rails App [here](https://github.com/petudeveloper/-hello-react-front-end)
 
 ## Prerequisites
 - Ruby on Rails. Official Rails Guides [here](https://guides.rubyonrails.org/).
