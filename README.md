@@ -11,7 +11,7 @@ The backEnd of the **Hellow Rails APP**. This is a web API with a database that 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
-- Run on your terminal 
+- Run-on your terminal 
 ```
 git clone https://github.com/petudeveloper/hello-rails-back-end.git
 cd hello-rails-back-end
