@@ -54,9 +54,9 @@ http://localhost:3000/api/v1/greetings
 - Ruby on Rails
 - Postgres
 
-# Author
+## Author 👤 
 
-👤 **David Alvarez**
+👨‍💻 ***David Alvarez**
 
 - GitHub: [@petudeveloper](https://github.com/petudeveloper)
 - Twitter: [@petudeveloper](https://twitter.com/petudeveloper)
