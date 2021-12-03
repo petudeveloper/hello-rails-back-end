@@ -11,7 +11,7 @@ The backEnd of the **Hellow Rails APP**. This is a web API with a database that 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
-- Run on your terminal 
+- Run-on your terminal 
 ```
 git clone https://github.com/petudeveloper/hello-rails-back-end.git
 cd hello-rails-back-end
@@ -46,7 +46,7 @@ rails server
 
 - To see the API working visit: 
 ```
-http://localhost:3000/api/v1/greetings
+http://localhost:3000/api/v1/messages/show
 ```
 
 ## Build With
@@ -54,9 +54,9 @@ http://localhost:3000/api/v1/greetings
 - Ruby on Rails
 - Postgres
 
-# Author
+## Author 👤 
 
-👤 **David Alvarez**
+👨‍💻 ***David Alvarez**
 
 - GitHub: [@petudeveloper](https://github.com/petudeveloper)
 - Twitter: [@petudeveloper](https://twitter.com/petudeveloper)
