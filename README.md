@@ -46,7 +46,7 @@ rails server
 
 - To see the API working visit: 
 ```
-http://localhost:3000/api/v1/greetings
+http://localhost:3000/api/v1/messages/show
 ```
 
 ## Build With
